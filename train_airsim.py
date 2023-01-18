@@ -321,11 +321,9 @@ def main():
                     print("Epoch %d, Itrs %d/%d, Loss_x=%f, Loss_u=%f, ws=%f" %
                           (cur_epochs, cur_itrs, opts.total_itrs, losses_x.avg, losses_u.avg, ws.avg))
 
-
-                scheduler.step()
-        if(k>=3):
-            predict(unlabel_loader, model, device, file=None)
-
+                scheduler.step()        
+                
+        predict(unlabel_loader, model, device, file=None)
         unlabel_dst2 = get_dataset_test(opts, uav_dir=csv_file_next + '/', test_file=csv_file_next + '.csv')
         unlabel_loader2 = data.DataLoader(unlabel_dst2, batch_size=8, shuffle=True, num_workers=4)
         predict(unlabel_loader2, model, device,'datasets/airsim/pl_csv/airsim.csv')
