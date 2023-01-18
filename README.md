@@ -1,6 +1,6 @@
 # Progressive Self-Distillation for Ground-to-Aerial Perception Knowledge Transfer
 
-We introduce the ground-to-aerial (GoA) distillation that transfers the perception knowledge from a UGV for ground viewpoint perception to drone perception tasks. This repo provides a novel semi-supervised learning framework that solves GoA perception knowledge distillation with labeled images from the ground viewpoint as well as unlabeled images from flight viewpoints. More detailed information, please check our [paper](https://arxiv.org/pdf/2208.13404.pdf).
+We introduce the ground-to-aerial (GoA) distillation that transfers the perception knowledge from a UGV for ground viewpoint perception to drone perception tasks. This repo provides a novel semi-supervised learning framework that solves GoA perception knowledge distillation with labeled images from the ground viewpoint as well as unlabeled images from flight viewpoints. For more detailed information, please check our [paper](https://arxiv.org/pdf/2208.13404.pdf).
 
 Results
 -
