@@ -65,8 +65,8 @@ Structure of the datasets:
 Running
 -
 The network of drone semantic segmentation is built on [DeepLabv3+](https://github.com/VainF/DeepLabV3Plus-Pytorch).  <br>
-Download the [datasets]().<br>
-Download our trained [models]().
+Download the [datasets](https://drive.google.com/file/d/1QIAxREWd-Wr4pGsSDEpiJTIplNIu7Mcn/view?usp=sharing).<br>
+Download our trained [models](https://drive.google.com/file/d/1_QfS5IO-seLKGiHJUylM3W4Bk4bHXxhP/view?usp=sharing).
  <br>
 
 + ### Test<br>
