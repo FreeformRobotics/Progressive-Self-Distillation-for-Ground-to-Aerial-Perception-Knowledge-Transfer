@@ -57,7 +57,7 @@ Structure of the datasets:
 		test
 			directory storing images and semantic maps of the test set			
 
-		car00: a csv file storing the path of images and semantic maps of ground viewpoint
+		car00.csv: a csv file storing the path of images and semantic maps of ground viewpoint
 		uav0X.csv (X denotes flying height): a csv file storing the path of images and semantic maps
 		test.csv: a csv file storing the path of images and semantic maps of the test set
 
