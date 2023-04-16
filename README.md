@@ -4,6 +4,13 @@ We introduce the ground-to-aerial (GoA) distillation that transfers the percepti
 
 Results
 -
+Qualitative comparisons on the simulated data.
+
+<p align="center">
+ <img src="figs/res_airsim.png" alt="photo not available" width="80%" height="80%">
+</p>
+
+
 Qualitative comparisons on the real-world data.
 
 <p align="center">
