@@ -40,12 +40,12 @@ Structure of the datasets:
 
 	airs
 	├── uav0X (X denotes flying height)
-	├── 	├── images: directory storing images 
-	├── 	├── semantic: directory storing ground truth semantic maps
-	├── 	├── semantic_pl: directory storing pseudo-labeled semantic maps during training
+	     ├── images: directory storing images 
+	     ├── semantic: directory storing ground truth semantic maps
+	     ├── semantic_pl: directory storing pseudo-labeled semantic maps during training
 	
 	├── pl_csv
-	├──     ├── airs.csv: a csv file storing the path of images and corresponding pseudo-labeled semantic maps during training
+	     ├── airs.csv: a csv file storing the path of images and corresponding pseudo-labeled semantic maps during training
 	
 	├── uav0X.csv (X denotes flying height): a csv file storing the path of images
 	├── uav01_labeled.csv: a csv file storing the path of images and semantic maps of ground viewpoint
@@ -55,12 +55,12 @@ Structure of the datasets:
 	├── car00: directory storing images and semantic maps of ground viewpoint
 
 	├── uav0X (X denotes flying height)
-	├── 	├── images: directory storing images 
-	├── 	├── semantic: directory storing ground truth semantic maps
-	├── 	├── semantic_pl: directory storing pseudo-labeled semantic maps during training
+	     ├── images: directory storing images 
+	     ├── semantic: directory storing ground truth semantic maps
+	     ├── semantic_pl: directory storing pseudo-labeled semantic maps during training
 
 	├── pl_csv
-	├── 	├── airsim.csv: a csv file storing the path of images and corresponding pseudo-labeled semantic maps during training
+	     ├── airsim.csv: a csv file storing the path of images and corresponding pseudo-labeled semantic maps during training
 	
 	├── test (directory storing images and semantic maps of the test set)			
 	├── car00.csv: a csv file storing the path of images and semantic maps of ground viewpoint
