@@ -1,6 +1,7 @@
-# Progressive Self-Distillation for Ground-to-Aerial Perception Knowledge Transfer
+# Progressive Semi-Supervised Learning for Ground-to-Aerial Perception Knowledge Transfer
 
 We introduce a novel progressive semi-supervised learning method for Ground-to-Aerial perception knowledge transfer with labeled images from the ground viewpoint and unlabeled images from flight viewpoints.
+
 Results
 -
 Qualitative comparisons on the simulated data.
