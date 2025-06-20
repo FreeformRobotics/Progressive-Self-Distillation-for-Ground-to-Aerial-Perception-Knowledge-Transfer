@@ -82,6 +82,18 @@ Download our trained [models](https://drive.google.com/file/d/10p96MeiScVnut9h88
 	 Training on the AirSim-Drone: python train_airsim.py<br>
 	 Training on the AIRS-Street: python train_airs.py<br>
 
+
+Citation
+-
+
+    @ARTICLE{11005613,
+	  author={Hu, Junjie and Fan, Chenyou and Ozay, Mete and Feng, Hua and Gao, Yuan and Lam, Tin Lun},
+  	  journal={IEEE Transactions on Intelligent Transportation Systems}, 
+	  title={Lifelong-MonoDepth: Lifelong Learning for Multidomain Monocular Metric Depth Estimation}, 
+	  volume={},
+  	  number={},
+  	  pages={1-13}}
+
     
     
 
