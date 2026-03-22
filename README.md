@@ -89,10 +89,11 @@ Citation
     @ARTICLE{11005613,
 	  author={Hu, Junjie and Fan, Chenyou and Ozay, Mete and Feng, Hua and Gao, Yuan and Lam, Tin Lun},
   	  journal={IEEE Transactions on Intelligent Transportation Systems}, 
-	  title={Lifelong-MonoDepth: Lifelong Learning for Multidomain Monocular Metric Depth Estimation}, 
-	  volume={},
-  	  number={},
-  	  pages={1-13}}
+	  title={Unlocking Drone Perception in Low AGL Heights: Progressive Semi-Supervised Learning for Ground-to-Aerial Perception Knowledge Transfer}, 
+	  year={2025},
+  	  volume={26},
+  	  number={7},
+  	  pages={9516-9528}}
 
     
     
